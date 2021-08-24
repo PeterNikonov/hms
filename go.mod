@@ -1,3 +1,3 @@
-module gitlabdev.im.perekrestok.ru/go/hms
+module github.com/PeterNikonov/hms
 
-go 1.15
+go 1.14
