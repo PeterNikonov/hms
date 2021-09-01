@@ -1,3 +1,3 @@
-module https://github.com/PeterNikonov/hms
+module github.com/PeterNikonov/hms
 
 go 1.14
