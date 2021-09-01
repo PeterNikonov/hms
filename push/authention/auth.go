@@ -21,8 +21,8 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"gitlabdev.im.perekrestok.ru/go/hms/httpclient"
-	"gitlabdev.im.perekrestok.ru/go/hms/push/config"
+	"github.com/PeterNikonov/hms/httpclient"
+	"github.com/PeterNikonov/hms/push/config"
 	"net/http"
 )
 

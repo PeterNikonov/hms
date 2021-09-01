@@ -21,10 +21,10 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"gitlabdev.im.perekrestok.ru/go/hms/httpclient"
-	auth "gitlabdev.im.perekrestok.ru/go/hms/push/authention"
-	"gitlabdev.im.perekrestok.ru/go/hms/push/config"
-	"gitlabdev.im.perekrestok.ru/go/hms/push/constant"
+	"github.com/PeterNikonov/hms/httpclient"
+	auth "github.com/PeterNikonov/hms/push/authention"
+	"github.com/PeterNikonov/hms/push/config"
+	"github.com/PeterNikonov/hms/push/constant"
 	"reflect"
 )
 

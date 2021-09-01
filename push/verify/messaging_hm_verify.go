@@ -19,8 +19,8 @@ package verify
 import (
 	"errors"
 
-	"gitlabdev.im.perekrestok.ru/go/hms/push/constant"
-	"gitlabdev.im.perekrestok.ru/go/hms/push/model"
+	"github.com/PeterNikonov/hms/push/constant"
+	"github.com/PeterNikonov/hms/push/model"
 )
 
 func validateAndroidConfig(androidConfig *model.AndroidConfig) error {

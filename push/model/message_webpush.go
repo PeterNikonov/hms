@@ -17,7 +17,7 @@ Copyright 2020. Huawei Technologies Co., Ltd. All rights reserved.
 package model
 
 import (
-	"gitlabdev.im.perekrestok.ru/go/hms/push/constant"
+	"github.com/PeterNikonov/hms/push/constant"
 	"time"
 )
 

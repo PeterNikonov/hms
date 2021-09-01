@@ -22,10 +22,10 @@ import (
 	"fmt"
 	"net/http"
 
-	"gitlabdev.im.perekrestok.ru/go/hms/httpclient"
-	"gitlabdev.im.perekrestok.ru/go/hms/push/constant"
-	"gitlabdev.im.perekrestok.ru/go/hms/push/model"
-	"gitlabdev.im.perekrestok.ru/go/hms/push/verify"
+	"github.com/PeterNikonov/hms/httpclient"
+	"github.com/PeterNikonov/hms/push/constant"
+	"github.com/PeterNikonov/hms/push/model"
+	"github.com/PeterNikonov/hms/push/verify"
 )
 
 // SendMessage sends a message to huawei cloud common
